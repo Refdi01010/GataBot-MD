@@ -133,7 +133,7 @@ global.nnnttt1 = 'https://chat.whatsapp.com/IyQcDZqfTkLG46ph8w1AHy' //Grupo 6 CO
 global.nnnttt2 = 'https://chat.whatsapp.com/EjiaKJWvzaiAmvktpScgEc' //Grupo 7 COL
 global.nnnttt3 = 'https://chat.whatsapp.com/JzgB9VgPdQWIkIXiuAiecc' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://saweria.co/ReffgAMING'
 global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
