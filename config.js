@@ -115,9 +115,9 @@ global.vs = "1.4.9";
 global.vsJB = "2.0";
 
 global.gt = "ShurGies";
-global.yt = "https://youtube.com/@gatadios";
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
-global.ig = "https://www.instagram.com/gata_dios";
+global.yt = "https://youtube.com/@ShusDy2";
+global.yt2 = "https://youtube.com/@ShusDy2";
+global.ig = "https://www.instagram.com/shusdy_3/?igshid=NGExMmI2YTkyZg==";
 global.md = "https://github.com/GataNina-Li/GataBot-MD";
 global.fb = "https://www.facebook.com/groups/872989990425789/";
 
