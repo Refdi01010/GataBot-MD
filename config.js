@@ -114,7 +114,7 @@ global.author = "Shur Gies";
 global.vs = "1.4.9";
 global.vsJB = "2.0";
 
-global.gt = "ShurGies";
+global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿";
 global.yt = "https://youtube.com/@ShusDy2";
 global.yt2 = "https://youtube.com/@ShusDy2";
 global.ig = "https://www.instagram.com/shusdy_3/?igshid=NGExMmI2YTkyZg==";
